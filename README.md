@@ -47,3 +47,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmadNada)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohmmadNada&show_icons=true)  
+
+
